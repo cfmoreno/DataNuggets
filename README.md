@@ -1,3 +1,5 @@
+![data_nugget_logo - Copy](https://user-images.githubusercontent.com/30671590/223876216-03b54c78-147e-4125-bb2a-8aae7418de88.png)
+
 <h1>What is it?</h1>
 
 DataNuggets was made in order to inform communities and interested people about small bits of data, one nugget at a time.
